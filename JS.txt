@@ -1,0 +1,21 @@
+01.how javascript code runs in browser?
+The source code is passed through a program called a compiler, which translates it into bytecode that the machine understands and can execute.
+ In contrast, JavaScript has no compilation step. Instead, an interpreter in the browser reads over the JavaScript code,
+ interprets each line, and runs it.
+
+02.list of things that are asynchronous in javascript:
+function myDisplayer(something) { document. ...
+setTimeout(myFunction, 3000); function myFunction() { ...
+setTimeout(function() { myFunction("I love You !!!"); }, 3000); function myFunction(value) { ...
+setInterval(myFunction, 1000); function myFunction() { ...
+Waiting for a File: function myDisplayer(some) {
+
+03.what is event loop in javascript?How it works?
+
+The event loop is a constantly running process that monitors both the callback queue and the call stack. ...
+ The JavaScript engine places the following function call on the callback queue and executes it when the call stack is empty.
+ In other words, the JavaScript engine executes it after the console.
+The Event Loop has one simple job — to monitor the Call Stack and the Callback Queue.
+ If the Call Stack is empty, the Event Loop will take the first event from the queue and will push it to the Call Stack, 
+which effectively runs it. Such an iteration is called a tick in the Event Loop.
+

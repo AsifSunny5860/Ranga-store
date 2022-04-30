@@ -1,0 +1,686 @@
+<!-- wp:table {"className":"dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%"} -->
+<figure class="wp-block-table dcf-table dcf-table-responsive dcf-table-bordered dcf-table-striped dcf-w-100%"><table><thead><tr><th scope="col">To / From</th><th scope="col">Distance</th><th scope="col">2 BR</th><th scope="col">3 BR</th><th scope="col">4 BR</th></tr></thead><tbody><tr><th scope="row"> to </th><td></td><td></td><td></td><td></td></tr><tr><th scope="row">  to  </th><td></td><td></td><td></td><td></td></tr><tr><th scope="row">  to  </th><td></td><td></td><td></td><td></td></tr><tr><th scope="row">  to  </th><td></td><td></td><td></td><td></td></tr><tr><th scope="row">  to  </th><td></td><td></td><td></td><td></td></tr><tr><th scope="row">  to  </th><td></td><td></td><td></td><td></td></tr><tr><th scope="row">  to  </th><td></td><td></td><td></td><td></td></tr><tr><th scope="row">  to  </th><td></td><td></td><td></td><td></td></tr><tr><th scope="row">  to  </th><td></td><td></td><td></td><td></td></tr><tr><th scope="row">  to  </th><td></td><td></td><td></td><td></td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+city list of Rhode Island with zip code:
+
+02903
+02910
+02886
+02860
+02914
+02895
+02864
+02816
+02911
+02879
+
+
+Providence, RI	02901 02902 02903
+Cranston, RI	02905 02907 02910
+Warwick, RI	02886 02887 02888
+Pawtucket, RI	02860 02861 02862
+East-Providence, RI	02914 @
+Woonsocket, RI	02895 @
+Cumberland, RI	02864 @
+Coventry, RI	02816 02827
+North-Providence, RI	02904 02908 02911
+South-Kingstown, RI	02879 02880
+
+
+
+city list of Wisconsin with zip code:
+
+53202
+53703
+54302
+53140
+53402
+54911
+53186
+54701
+54901
+53545
+
+
+city list of West virginia with zip code:
+
+25301
+25701
+26501
+26101
+26003
+26062
+26554
+25401
+25801
+26301
+
+
+Charleston, WV	25301 25302 25303
+Huntington, WV	25701 25702 25703
+Morgantown, WV	26501 26502 26504
+Parkersburg, WV	26101 26102 26103
+Wheeling, WV	26003
+Weirton, WV	26062
+Fairmont, WV	26554 26555
+Martinsburg, WV	25401 25402 25403
+Beckley, WV	25801 25802
+Clarksburg, WV	26301 26302 26306
+
+
+
+city list of Washington with zip code:
+
+98101
+99201
+98402
+98660
+98004
+98030
+98201
+98055
+99016
+98001
+
+Seattle, WA	98101 98102 98103
+Spokane, WA	99201 99202 99203
+Tacoma, WA	98401 98402 98403
+Vancouver, WA	98660 98661 98662
+Bellevue, WA	98004 98005 98006
+Kent, WA	98030 98031 98032
+Everett, WA	98201 98203 98204
+Renton, WA	98055 98056 98057
+Spokane-Valley, WA	99016
+Federal-Way, WA	98001 98003 98023
+
+
+
+
+city list of Colorado with zip code: 
+80014, Denver, CO
+80906, Colorado Springs, CO
+80010, Aurora, CO
+80521, Fort Collins, CO
+80123, Lakewood, CO
+80023, Thornton, CO
+80002, Arvada, CO
+80003, Westminster, CO
+81001, Pueblo, CO
+80631, Greeley, CO
+
+
+
+
+city list of Verginia with zip code:
+
+23451
+23502
+23320
+22201
+23219
+23601
+22301
+23605
+24011
+23701
+
+Virginia-Beach, VA	23450 23451 23452
+Norfolk, VA	23501 23502 23503
+Chesapeake, VA	23320 23321 23322
+Arlington, VA	20598 22201 22202
+Richmond, VA	23173 23218 23219
+Newport-News, VA	23601 23602 23603
+Alexandria, VA	20598 22301 22302
+Hampton, VA	23605 23630 23651
+Roanoke, VA	24001 24002 24003
+Portsmouth, VA	23701 23702 23703
+
+
+
+city list of Vermont with zip code:
+
+05401
+05452
+05403
+05446
+05701
+05201 
+05301
+05468 
+05452
+05495
+
+Burlington, VT	05401 05402 05405
+Essex, VT	05451 05452
+South-Burlington, VT	05403 05407
+Colchester, VT	05439 05446 05449
+rutland city, VT 05701
+Bennington, VT	05201 
+Brattleboro, VT	05301 05302 05303
+Milton, VT	05468 
+Essex-Junction, VT	05452 05453
+Williston, VT	05495
+
+city list of Utah with zip code:
+
+84101
+84081
+84601
+84081
+84057
+84070 
+84770
+84401
+84040 
+84095
+
+
+Salt-Lake-City, UT	84101 84102 84103
+West-Valley-City, UT	84081 84118 84119
+Provo, UT	84601 84602 84603
+West-Jordan, UT	84081 84084 84088
+Orem, UT	84057 84058 84059
+Sandy, UT	84070 84090 84091
+saint george    84770
+Ogden, UT	84201 84244 84401
+Layton, UT	84040 84041
+South-Jordan, UT	84009 84065 84095
+
+
+
+
+city list of texas with zip code:
+
+77002
+78201
+75201
+78681
+76008
+79835
+76001
+78401
+75023
+78040
+
+Houston, TX	77001 77002 77003
+San-Antonio, TX	78201 78202 78203
+Dallas, TX	75201 75202 75203
+Austin, TX	73301 73344 78681
+Fort-Worth, TX	76008 76036 76101
+El-Paso, TX	79835 79901 79902
+Arlington, TX	76001 76002 76003
+Corpus-Christi, TX	78401 78402 78403
+Plano, TX	75023 75024 75025
+Laredo, TX	78040 78041 78042
+
+
+
+
+
+29401
+29201
+29405
+29429
+29730
+29601
+29483
+29445
+29926
+29150
+
+
+
+city list of Tennessee with zip code:
+37220
+38103
+37902
+37402
+37040
+37127
+37064
+38301
+37601
+38002
+
+
+Nashville-Davidson 37220
+Memphis, TN	37501 37544 38101
+Knoxville, TN	37901 37902 37909
+Chattanooga, TN	37401 37402 37403
+Clarksville, TN	37040 37041 37042
+Murfreesboro, TN	37127 37128 37129
+Franklin, TN	37064 37065 37067
+Jackson, TN	38301 38302 38303
+Johnson-City, TN	37601 37602 37604
+Bartlett, TN	38002
+
+
+city list of South dakota with zip code:
+57103
+57701
+57401
+57006
+57201
+57301
+57078
+57501
+57350
+57783 
+
+
+city list of South Dakota with zip code:
+Sioux-Falls, SD	57101 57103 57104
+Rapid-City, SD	57701 57702 57703
+Aberdeen, SD	57401 57402
+Brookings, SD	57006 57007
+Watertown, SD	57201
+Mitchell, SD	57301
+Yankton, SD	57078
+Pierre, SD	57501
+Huron, SD	57350 57399
+Spearfish, SD	57783 57799
+
+
+city list of South Carolina with zip code:
+Charleston, SC	29401 29402 29403
+Columbia, SC	29201 29202 29203
+North-Charleston, SC	29405 29406 29410
+Mount-Pleasant, SC	29429 29464 29465
+Rock-Hill, SC	29730 29731 29732
+Greenville, SC	29601 29602 29603
+Summerville, SC	29483 29484 29485
+Goose-Creek, SC	29445
+Hilton-Head-Island, SC	29925 29926 29928
+Sumter, SC	29150 29151 29153
+
+
+city list of kansas with zip code:
+Wichita>67205
+Overland Park>66013
+Kansas City>64108
+Olathe >66061
+Topeka>66608
+Lawrence>66044
+Shawnee>74802
+Lenexa>66210
+Manhattan>66502
+Salina>67401
+
+city list of idaho with zip codes:
+83708, Boise, ID
+83642, Meridian, ID
+83651, Nampa, ID
+83401, Idaho Falls, ID
+83605, Caldwell, ID
+83201, Pocatello, ID
+83814, Coeur D Alene, ID
+83301, Twin Falls, ID
+83440, Rexburg, ID
+83854, Post Falls, ID
+
+
+city list of hawaii with zip codes:
+Honolulu, HI 96803
+Pearl City, HI 96782
+Hilo, HI 96720
+Waipahu, HI 96797
+Kailua, HI 96734
+Kaneohe, HI 96744
+Kahului, HI 96732
+Mililani, HI 96789
+Kapolei, HI 96707
+Mililani, HI 96789
+
+city list of alabama with zip code:
+35808, Huntsville, AL
+35214, Birmingham, AL
+36106, Montgomery, AL
+36605, Mobile, AL
+35401, Tuscaloosa, AL
+35022, Hoover, AL
+36830, Auburn, AL
+36301, Dothan, AL
+35601, Decatur, AL
+35756, Madison, AL
+
+city list of florida with zip codes:
+32204, Jacksonville, FL
+33128, Miami, FL
+33615, Tampa, FL
+32803, Orlando, FL
+33701, Saint Petersburg, FL
+33010, Hialeah, FL
+34983, Port Saint Lucie, FL
+32301, Tallahassee, FL
+33904, Cape Coral, FL
+33301, Fort Lauderdale, FL
+
+city list of Nevada with zip Code:
+89101, Las Vegas, NV
+89002, Henderson, NV
+89502, Reno, NV
+89030, North Las Vegas, NV
+89431, Sparks, NV
+89701, Carson City, NV
+89408, Fernley, NV
+89801, Elko, NV
+89027, Mesquite, NV
+89005, Boulder City, NV
+
+city list of nebraska with zip Code:
+68102, Omaha, NE
+68502, Lincoln, NE
+68005, Bellevue, NE
+68801, Grand Island, NE
+68845, Kearney, NE
+68025, Fremont, NE
+68901, Hastings, NE
+68701, Norfolk, NE
+68046, Papillion, NE
+68601, Columbus, NE
+
+city list of Montana wwith zip code:
+59101, Billings, MT
+59801, Missoula, MT
+59401, Great Falls, MT
+59715, Bozeman, MT
+59701, Butte, MT
+59601, Helena, MT
+59901, Kalispell, MT
+59714, Belgrade, MT
+59711, Anaconda, MT
+59501, Havre, MT
+
+city list of Missouri with zzip code:
+64101, Kansas City, MO
+63101, Saint Louis, MO
+65806, Springfield, MO
+29201, Columbia, SC
+64050, Independence, MO
+64063, Lees Summit, MO
+63366, O Fallon, MO
+64501, Saint Joseph, MO
+63301, Saint Charles, MO
+63303, Saint Peters, MO
+
+City list of  Mississippi with zip code:
+39206, Jackson, MS
+39501, Gulfport, MS
+38671, Southaven, MS
+39401, Hattiesburg, MS
+39530, Biloxi, MS
+83642, Meridian, ID
+38801, Tupelo, MS
+29601, Greenville, SC
+38654, Olive Branch, MS
+38637, Horn Lake, MS
+
+
+City list of Minnesota with zip code:
+55401, Minneapolis, MN
+55101, Saint Paul, MN
+14609, Rochester, NY
+47401, Bloomington, MN
+55802, Duluth, MN
+55428, Brooklyn Park, MN
+02360, Plymouth, MA
+55125, Woodbury, MN
+55311, Maple Grove, MN
+55434, Blaine, MN
+
+city list of Massachusetts with zip codes:
+02108, Boston, MA
+01608, Worcester, MA
+65806, Springfield, MO
+02138, Cambridge, MA
+01850, Lowell, MA
+02301, Brockton, MA
+02169, Quincy, MA
+01901, Lynn, MA
+02740, New Bedford, MA
+02720, Fall River, MA
+
+
+city list of Maryland with zip code:
+21201, Baltimore, MD
+21701, Frederick, MD
+20877, Gaithersburg, MD
+20850, Rockville, MD
+20715, Bowie, MD
+21740, Hagerstown, MD
+21401, Annapolis, MD
+20740, College Park, MD
+21801, Salisbury, MD
+20707, Laurel, MD
+
+
+city list of louisiana with zip code:
+New Orleans>70117
+70801, Baton Rouge, LA 
+71101, Shreveport, LA 
+70501, Lafayette, LA
+70601, Lake Charles, LA 
+70062, Kenner, LA 
+71111, Bossier City, LA
+71201, Monroe, LA
+22312, Alexandria, VA 
+70360, Houma, LA 
+
+
+city list of lowa with zip code:
+Des Moines> 50310
+Ankeny >50021
+Ames>50010
+Bettendorf >52722
+Burlington>05401
+Altoona>16601
+Boone>28607
+Bondurant>50035
+Atlantic>08401
+Adel>31620
+
+city list of Illinois with zip codes:
+60603, Chicago, IL
+60502, Aurora, IL
+61103, Rockford, IL
+60403, Joliet, IL
+60540, Naperville, IL
+62703, Springfield, IL
+61602, Peoria, IL
+60120, Elgin, IL
+60085, Waukegan, IL
+60804, Cicero, IL
+
+
+city list of delaware with zip code:
+19801, Wilmington, DE
+19901, Dover, DE
+19711, Newark, DE
+19709, Middletown, DE
+19977, Smyrna, DE
+19963, Milford, DE
+19973, Seaford, DE
+19947, Georgetown, DE
+19966, Millsboro, DE
+19805, Elsmere, DE
+
+city list of Connecticut with zip code: 
+06604, Bridgeport, CT
+06902, Stamford, CT
+06515, New Haven, CT
+06101, Hartford, CT
+06701, Waterbury, CT
+06850, Norwalk, CT
+06810, Danbury, CT
+06051, New Britain, CT
+06105, West Hartford, CT
+06830, Greenwich, CT
+
+
+city list of California with zip code:
+90001, Los Angeles, CA
+92103, San Diego, CA
+95110, San Jose, CA
+94109, San Francisco, CA
+93650, Fresno, CA
+95818, Sacramento, CA
+90803, Long Beach, CA
+94606, Oakland, CA
+93301, Bakersfield, CA
+92801, Anaheim, CA
+
+
+city list of Arkansas with zip code:
+72206, Little Rock, AR
+72901, Fort Smith, AR
+72701, Fayetteville, AR
+72762, Springdale, AR
+72401, Jonesboro, AR
+72113, North Little Rock, AR
+72032, Conway, AR
+72756, Rogers, AR
+71601, Pine Bluff, AR
+72712, Bentonville, AR
+
+
+city list of Alaska with zip code:
+Anchorage >99501
+Fairbanks >99705
+Juneau >99801
+Wasilla>99654
+Sitka> 99835
+Ketchikan>99901
+Kenai>99611
+Bethel>06801
+Palmer>99645
+99615, Kodiak, AK
+
+city list of New Jersey with zip code:
+Newark
+
+
+City list of Michigan with zip code:
+48207, Detroit, MI
+49508, Grand Rapids, MI
+48088, Warren, MI
+48502, Flint, MI
+48310, Sterling Heights, MI
+48906, Lansing, MI
+48103, Ann Arbor, MI
+48150, Livonia, MI
+48120, Dearborn, MI
+20735, Clinton, MD
+
+city list of kentucky with zip code:
+Louisville>40242
+Lexington>40502 
+Bowling Green>42101 
+Owensboro>42301
+Covington>41011
+Hopkinsville>42240
+40475, Richmond
+41042, Florence
+Georgetown>40324
+Henderson>89002
+
+city list of lowa with zip code:
+Des Moines> 50310
+Ankeny >50021
+Ames>50010
+Bettendorf >52722
+Burlington>05401
+Altoona>16601
+Boone>28607
+Bondurant>50035
+Atlantic>08401
+Adel>31620
+>>>>>city list of Indiana with zip code:
+
+Indianapolis>46203
+Fort Wayne>46807
+Evansville>47710
+	South Bend>46619
+Carmel>93923
+Fishers>46037
+	Bloomington>47401
+Hammond>70403
+Gary>46404
+Lafayette> 70501
+
+
+city list of Georgia with zip codes:
+30308, Atlanta, GA
+30905, Augusta, GA
+31904, Columbus, GA
+31201, Macon, GA
+31401, Savannah, GA
+30601, Athens, GA
+30319, Sandy Springs, GA
+30075, Roswell, GA
+31701, Albany, GA
+30005, Johns Creek, GA
+
+
+
+city list of California with zip code: Colorado
+90001, Los Angeles, CA
+92103, San Diego, CA
+95110, San Jose, CA
+94109, San Francisco, CA
+93650, Fresno, CA
+95818, Sacramento, CA
+90803, Long Beach, CA
+94606, Oakland, CA
+93301, Bakersfield, CA
+92801, Anaheim, CA
+
+
+City list of Arizona with zip code:
+85003, Phoenix, AZ
+85701, Tucson, AZ
+85201, Mesa, AZ
+85224, Chandler, AZ
+85233, Gilbert, AZ
+91206, Glendale, CA
+85257, Scottsdale, AZ
+61606, Peoria, IL
+ 85281, Tempe, AZ
+85374, Surprise, AZ
+
+
+Indiana>>>>>
+Indianapolis>46203
+Fort Wayne>46807
+Evansville>47710
+	South Bend>46619
+Carmel>93923
+Fishers>46037
+	Bloomington>47401
+Hammond>70403
+Gary>46404
+Lafayette> 70501
+
+city list of Alaska with zip code:
+Anchorage >99501
+Fairbanks >99705
+Juneau >99801
+Wasilla>99654
+Sitka> 99835
+Ketchikan>99901
+Kenai>99611
+Bethel>06801
+Palmer>99645
+99615, Kodiak, AK
+
+city list of Maine with zip code:
+97206, Portland, OR
+04240, Lewiston, ME
+04401, Bangor, ME
+04106, South Portland, ME
+36830, Auburn, AL
+04005, Biddeford, ME
+32771, Sanford, FL
+04072, Saco, ME
+04092, Westbrook, ME
+30905, Augusta, GA

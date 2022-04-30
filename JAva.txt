@@ -1,0 +1,69 @@
+
+
+>>>>>>>>>>>>java input parameters
+public class Main 
+public static void main(String[] Strings)
+Scanner input = new Scanner (System.in);
+int num1 = input.nextInt();
+
+>>>>>java output statement
+System.out.print("Input the first number: ");
+
+>>>java output a new line
+System.out.println("Sum: "+sum);
+
+>>>>>find the avg of an array>>
+int[] numbers = new int[]{20, 30, 25, 35, -16, 60, -100};
+       //calculate sum of all array elements
+       int sum = 0;
+       for(int i=0; i < numbers.length ; i++)
+        sum = sum + numbers[i];
+       //calculate average value
+        double average = sum / numbers.length;
+        System.out.println("Average value of the array elements is : " + average); 
+
+
+>>>>>>find char at specific index
+
+ String str = "Java Exercises!";
+        System.out.println("Original String = " + str);
+        // Get the character at positions 0 and 10.
+        int index1 = str.charAt(0);
+        int index2 = str.charAt(10);
+
+        // Print out the results.
+        System.out.println("The character at position 0 is " +
+            (char)index1);
+        System.out.println("The character at position 10 is " +
+            (char)index2);
+
+>>>>>>find the minimum number 
+public static double smallest(double x, double y, double z)
+    {
+        return Math.min(Math.min(x, y), z);
+    }
+
+>>>>>>>COUNTING VOWELS FROM INPUT
+public class Exercise4 {
+  public static void main(String[] args)
+    {
+        Scanner in = new Scanner(System.in);
+        System.out.print("Input the string: ");
+        String str = in.nextLine();
+
+        System.out.print("Number of  Vowels in the string: " + count_Vowels(str)+"\n");
+    }
+ public static int count_Vowels(String str)
+    {
+        int count = 0;
+        for (int i = 0; i < str.length(); i++)
+        {
+            if (str.charAt(i) == 'a' || str.charAt(i) == 'e' || str.charAt(i) == 'i'
+                    || str.charAt(i) == 'o' || str.charAt(i) == 'u')
+            {
+                count++;
+            }
+        }
+        return count;
+    }
+}
